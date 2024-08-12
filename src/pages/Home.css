@@ -1,0 +1,32 @@
+.home-section {
+    background-color: #f7f4ef; 
+  }
+  
+  .home-content {
+    border: 2px solid #e4dccf;
+  }
+  
+  .font-cursive {
+    font-family: 'Caveat', cursive;
+  }
+  
+  .text-brown {
+    color: #5e412f;
+  }
+  
+  .text-brown-light {
+    color: #8b6f61;
+  }
+  
+  .bg-brown {
+    background-color: #5e412f;
+  }
+  
+  .bg-brown-dark {
+    background-color: #3d2b21;
+  }
+  
+  .shadow {
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  

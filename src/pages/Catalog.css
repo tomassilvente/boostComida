@@ -1,0 +1,26 @@
+
+.catalog-section {
+    background-color: #f7f4ef; 
+  }
+  
+  .product-card {
+    border: 1px solid #e4dccf;
+    transition: transform 0.3s ease;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .font-cursive {
+    font-family: 'Caveat', cursive;
+  }
+  
+  .text-brown {
+    color: #5e412f;
+  }
+  
+  .text-brown-light {
+    color: #8b6f61;
+  }
+  
